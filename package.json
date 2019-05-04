@@ -1,6 +1,7 @@
 {
   "name": "react-annoy",
   "version": "0.1.0",
+  "homepage": "https://wisabid.github.io/react-annoy/",
   "private": true,
   "dependencies": {
     "@babel/core": "^7.4.3",
